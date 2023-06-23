@@ -1,2 +1,1 @@
-# fooddeliverywebsite
-It's fast food delivery system
+# Namste-Spice
